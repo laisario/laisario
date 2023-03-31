@@ -1,6 +1,10 @@
 # 💫 About Me:
 Olá! Me chamo Laísa e sou estudante de desenvolvimento web na Trybe. Comecei a me interessar por tecnologia enquanto estava matriculada no curso de jornalismo, mas sem certeza se era realmente o que queria estudar. Foi explorando conteúdos sobre tecnologia no YouTube e pesquisando sobre linguagens de programação que fez perceber que a tecnologia oferece muitas oportunidades para criar soluções criativas e resolver problemas complexos que antes não me achava capaz. Decidi levar meus estudos a um nível mais sério e me matriculei na Trybe para me tornar uma desenvolvedora fullstack. Hoje, a tecnologia é uma grande paixão em minha vida, e continuo aprendendo e crescendo nesta área todos os dias.
 
+Trybe: 
+
+A Trybe é uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. Com o Modelo de sucesso compartilhado, quem estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis, habilidades comportamentais e iniciativas de carreira e empregabilidade.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laisa_rioverde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laisa-rio) 
