@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻Hi, my name is Laísa and I study web development at Trybe.<br>💻Here you will find some of my projects<br>front and back-end that I develop using javascript<br>and its many wonderful libraries.<br>🧠I develop to test my knowledge and gain experience<br>soon to be on the job market.
+Olá! Me chamo Laísa e sou estudante de desenvolvimento web na Trybe. Comecei a me interessar por tecnologia enquanto estava matriculada no curso de jornalismo, mas sem certeza se era realmente o que queria estudar. Foi explorando conteúdos sobre tecnologia no YouTube e pesquisando sobre linguagens de programação que fez perceber que a tecnologia oferece muitas oportunidades para criar soluções criativas e resolver problemas complexos que antes não me achava capaz. Decidi levar meus estudos a um nível mais sério e me matriculei na Trybe para me tornar uma desenvolvedora fullstack. Hoje, a tecnologia é uma grande paixão em minha vida, e continuo aprendendo e crescendo nesta área todos os dias.
 
 
 ## 🌐 Socials:
